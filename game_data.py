@@ -9,12 +9,12 @@ person_list = [
         'name': 'Raghvendra',
         'follower_count': 50,
         'description': 'Application Developer',
-        'country': 'Indian',
+        'country': 'India',
     },
     {
         'name': 'Ankit',
         'follower_count': 30,
         'description': 'Quality Analyst Intern',
-        'country': 'Indian',
+        'country': 'India',
     },
 ]
